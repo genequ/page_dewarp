@@ -12,3 +12,5 @@ Requirements:
 Usage:
 
     page_dewarp.py IMAGE1 [IMAGE2 ...]
+![original](https://github.com/genequ/page_dewarp/assets/1505497/55d5df2f-6693-4c09-9649-2b519503bc28)
+![1_thresh](https://github.com/genequ/page_dewarp/assets/1505497/81277733-3664-4896-8865-dc5155d78020)
