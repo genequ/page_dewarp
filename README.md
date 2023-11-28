@@ -5,9 +5,10 @@ Page dewarping and thresholding using a "cubic sheet" model - see full writeup a
 
 Requirements:
 
+ - Python 3
  - scipy
- - OpenCV 3.0 or greater
- - Image module from PIL or Pillow
+ - OpenCV 4.x
+ - Pillow
  
 Usage:
 
